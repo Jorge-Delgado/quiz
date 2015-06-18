@@ -39,3 +39,9 @@ nav span {
 	margin-bottom: 1px;
 	color: black;
 }
+
+.image {
+	max-height: 350px;
+	max-width: 350px;
+	padding-top: 10px;
+}
